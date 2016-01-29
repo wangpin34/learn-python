@@ -1,0 +1,1 @@
+006.anonymous_function.py
