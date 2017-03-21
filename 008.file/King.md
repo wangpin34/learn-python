@@ -1,1 +1,0 @@
-# Every one can be their King
